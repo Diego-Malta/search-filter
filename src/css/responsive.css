@@ -1,0 +1,12 @@
+@media (max-width: 786px) {
+    .search-container, .main-container {
+        width: 50%;
+    }
+}
+
+/* @media (max-width: 500px) {
+  .main-container  > .icon-name{
+    width: 30%;
+    width: 100%;
+  }
+} */
